@@ -14,9 +14,6 @@ The dataset consists of **4 tables**:
 3. **`pizzas`** – Contains pizza details such as price and size.  
 4. **`pizza_types`** – Contains pizza categories and names.  
 
-> **Note**: Only a few rows of data are included here for illustration purposes.  
-> For the **complete dataset** and **MySQL Workbench file**, please refer to the GitHub link provided below.
-
 
 **Explanation:**  
 - Each **pizza type** can have multiple **pizzas** with different sizes.  
